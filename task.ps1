@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Write your code here
 =======
 
@@ -31,6 +32,8 @@ $regionsWithVMSize | ConvertTo-Json -Depth 10 | Set-Content -Path ".\result.json
 
 
 
+=======
+>>>>>>> 261cb5d (Solution)
 $regionsWithVMSize = @()
 
 $regions = Get-ChildItem -Path ".\data"
